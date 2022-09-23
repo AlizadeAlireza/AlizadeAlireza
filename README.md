@@ -13,7 +13,7 @@ Hi, this is alireza
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Solidiy" title="JavaScript" src="https://avatars.githubusercontent.com/u/49376037?s=200&v=4.png" height="34">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Brwonie" title="Brwonie" src="file:///home/aliza/Pictures/1e5baf00-2b82-11eb-9f4c-1f47e216cf05.png" height="34">
+
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=AlizadeAlireza&show_icons=true)
