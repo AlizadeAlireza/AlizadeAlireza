@@ -17,7 +17,7 @@ Hi, this is alireza
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img style="display: none" alt="Hardhat" title="Hardhat" src="https://c.gitcoin.co/grants/32b6fabb70180e949a0490be4d9f1a2d/Hardhat-color-logotype-vertical.svg" height="34">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Hardhat" title="JavaScript" src="https://avatars.githubusercontent.com/u/49376037?s=200&v=4.png" height="34">
+<img alt="Brownie" title="Brownie" src="https://avatars.githubusercontent.com/u/49376037?s=200&v=4.png" height="34">
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 
