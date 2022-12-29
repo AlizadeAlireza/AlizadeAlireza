@@ -7,7 +7,7 @@ Hi, this is alireza
 <b>My favourite techs: </b>
 <br>
 <br>
-<img alt="Solidiy" title="JavaScript" src="https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png" height="24">
+<img alt="Solidiy" title="Solidity" src="https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Python" title="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" height="34">
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,7 +17,7 @@ Hi, this is alireza
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img style="display: none" alt="Hardhat" title="Hardhat" src="https://c.gitcoin.co/grants/32b6fabb70180e949a0490be4d9f1a2d/Hardhat-color-logotype-vertical.svg" height="34">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Solidiy" title="JavaScript" src="https://avatars.githubusercontent.com/u/49376037?s=200&v=4.png" height="34">
+<img alt="Hardhat" title="JavaScript" src="https://avatars.githubusercontent.com/u/49376037?s=200&v=4.png" height="34">
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 
