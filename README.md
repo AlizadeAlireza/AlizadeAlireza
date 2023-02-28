@@ -9,7 +9,8 @@ Hi, this is alireza
 <br>
 <img alt="Solidiy" title="Solidity" src="https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;
-
+<img style="display: none" alt="Hardhat" title="Hardhat" src="https://c.gitcoin.co/grants/32b6fabb70180e949a0490be4d9f1a2d/Hardhat-color-logotype-vertical.svg" height="34">
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=AlizadeAlireza&show_icons=true)
