@@ -34,5 +34,5 @@ My Personality traits :
 <br>- Curious / Debbuger
 <br>- Result based 
 <br>- Detailed oriented
-<br>
-<br>
+<br>- Dominating the ego
+<br>- Honest
