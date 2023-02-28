@@ -30,9 +30,10 @@ Hi, this is alireza
 
 <br>
 My Personality traits :
-<br>- Hardworking
-<br>- Curious / Debbuger
-<br>- Result based 
-<br>- Detailed oriented
-<br>- Dominating the ego
-<br>- Honest
+<br>- Hardworking 😎
+<br>- Curious / Debbuger 🐛
+<br>- Result based 💦
+<br>- Detailed oriented 🤔
+<br>- Dominating the ego 🤗
+<br>- Honest ☺️
+<br>- sleep lover 🛌 😪
