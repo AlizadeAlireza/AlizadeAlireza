@@ -23,7 +23,8 @@ Hi, this is alireza
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Git" title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40">
 &nbsp;&nbsp;&nbsp;&nbsp;
-
+<br>
+### &#x1f4c8; GitHub Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=AlizadeAlireza&show_icons=true)
 
 
