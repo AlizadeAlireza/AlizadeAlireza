@@ -17,7 +17,8 @@ Hi, this is alireza
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Brwonie" title="Brwonie" src="file:///home/aliza/Pictures/1e5baf00-2b82-11eb-9f4c-1f47e216cf05.png" height="34">
 &nbsp;&nbsp;&nbsp;&nbsp;
-
+<img style="display: none" alt="Django" title="Django" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" height="34">
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=AlizadeAlireza&show_icons=true)
 
