@@ -25,7 +25,7 @@ Hi, this is alireza
 &nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 ### &#x1f4c8; GitHub Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=AlizadeAlireza&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=AlizadeAlireza&show_icons=true&theme=radical)
 
 
 <br>
