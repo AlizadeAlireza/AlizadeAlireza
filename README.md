@@ -7,7 +7,7 @@ Hi, this is alireza
 <b>My favourite techs: </b>
 <br>
 <br>
-<img alt="Solidiy" title="Solidity" src="https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png" height="24">
+<img alt="Solidity" title="Solidity" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Python" title="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" height="34">
 &nbsp;&nbsp;&nbsp;&nbsp;
