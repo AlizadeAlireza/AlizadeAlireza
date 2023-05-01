@@ -11,11 +11,11 @@ Hi, this is alireza
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Python" title="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" height="34">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">
+<img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="34">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img style="display: none" alt="Hardhat" title="Hardhat" src="https://c.gitcoin.co/grants/32b6fabb70180e949a0490be4d9f1a2d/Hardhat-color-logotype-vertical.svg" height="34">
+<img style="display: none" alt="Hardhat" title="Hardhat" src="https://c.gitcoin.co/grants/32b6fabb70180e949a0490be4d9f1a2d/Hardhat-color-logotype-vertical.svg" height="38">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Brwonie" title="Brwonie" src="https://avatars.githubusercontent.com/u/55654090?s=200&v=4" height="34">
+<img alt="Brwonie" title="Brwonie" src="https://avatars.githubusercontent.com/u/55654090?s=200&v=4" height="36">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img style="display: none" alt="Django" title="Django" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" height="34">
 &nbsp;&nbsp;&nbsp;&nbsp;
